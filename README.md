@@ -17,5 +17,9 @@ Step 4. Run the script
 
 Enjoy your crack pipe! And find a good wordlist to run the wireless hashes against.
 
+# Dependencies
+As always for all of my GitHub releases. You still require Python 2.7.13, Python-Pip, and Termcolor for Python Modules.
+Run dependencyInstall.sh with the same steps if you do not have Termcolor (the error will show up telling you so).
+
 # Other Points
 Unlike the Wi-Fi Attack Autoloader Project, because Aircrack doesn't require any "funny business" or "hacking around" for your network settings, you should be able to use CrackHead without any significant changes to your Linux network settings.
