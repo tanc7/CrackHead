@@ -2,9 +2,12 @@
 Easy, Simple Aircrack-Suite Replay Attacks
 In lamence terms...
 This enables any Kali Linux user to easily pull off a Wireless "Replay Attack" (steal router's password) with nothing more than the ability to copy/paste a BSSID, and to possess a ARP Injection Capable external wireless card
-Full list here: http://www.codegeek.io/home/kali-linux-compatible-wireless-adapters/
+This has been tested against a WPA2-PSK router with CCMP enabled.
 
-Tested with a TP-Link TL-WN722N, which is like $13 from Amazon. https://www.amazon.com/Tp-Link-TL-WN722N-IEEE-802-11n-draft/dp/9800359850
+Full list of compatible cheap-O wireless cards here: http://www.codegeek.io/home/kali-linux-compatible-wireless-adapters/
+
+Tested with a TP-Link TL-WN722N, which is like $13 from Amazon. 
+https://www.amazon.com/Tp-Link-TL-WN722N-IEEE-802-11n-draft/dp/9800359850
 
 # How to Install
 Step 1. Unzip contents
